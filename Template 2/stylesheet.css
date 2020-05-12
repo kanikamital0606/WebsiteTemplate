@@ -1,0 +1,165 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+}
+
+.header {
+  background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 45px;
+  padding: 20px 40px;
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 60px;
+}
+
+.main {
+  padding: 5px 80px;/*
+  padding: 100px 80px;*/
+}
+
+/**/
+.Introduction{
+  background-color: #EFFFC4;
+  font-family: "Avenir Next";
+  padding: 33px 33px;
+}
+.Introduction h5{
+  font-size: medium;
+}
+/**/
+.copy-container h1 {
+  font-size: 60px;
+}
+
+.copy-container h2 {
+  font-size: 40px;
+}
+
+.copy-container span {
+  color: #ff4a4a;
+}
+
+.contents {
+  height: 200px;
+  margin-top: 100px;
+}
+
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
+
+.contents-item {
+  float: left;
+  margin-right: 40px;
+}
+
+.contents-item p {
+  font-size: 24px;
+  margin-top: 30px;
+}
+
+.contact-form {
+  padding-top: 100px;
+}
+/**/
+/**/
+.Requirementes{
+  border-bottom: 2px solid #dbd7e2;
+  font-size: 28px;
+  padding-bottom: 25px;
+  margin-bottom: 40px;
+  background-color:#dbd7e2; /*#ffc4c7;*/
+  max-width: auto;
+  max-height: auto;
+}
+
+.Requirementes li {
+  padding: 25px 30px;
+}
+.Red{
+  color: #940fab;
+}
+/* Add CSS for <input> and <textarea> tags */
+input, textarea {
+  width: 400px;
+  margin-top: 10px; 
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 18px;
+  border: 1px solid #dee7ec; 
+  
+}
+/* Add CSS for contact-submit */
+.contact-submit{
+  background-color: #dee7ec;
+  color: #889eab;
+}
+/**/
+.background-Discount{
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjbMswJ8crn3s4ldVBZvyg0tetTLBQDI5KAvnCVBkrZXuM-arX&usqp=CAU");
+  padding: 33px 20px; 
+}
+.Discount{
+  padding-top:14px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  padding: 2px 20px;
+  /*max-width: 1000px;
+  max-height:2000px;*/
+  opacity: 0.6;
+}
+
+.Discount h2{
+  font-weight: bold;
+  color: #000000;
+  padding: 2.5px 25px;
+  /*max-width: auto;
+  max-height:auto;
+  ma*/
+}
+
+.Discount h3{
+  margin: 2.5%;
+  font-weight: bold;
+  color: #000000;
+  padding: 2.5px 2.5px;/*
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;*/
+}
+/**/
+
+
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
